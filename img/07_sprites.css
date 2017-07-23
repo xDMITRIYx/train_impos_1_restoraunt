@@ -1,0 +1,22 @@
+.s-07_fb_logo, .s-07_tw_logo, .s-07_pr_logo{
+	background: url(sprites.png) no-repeat;
+}
+
+.s-07_fb_logo{
+	background-position: 0 0;
+	width: 39px;
+	height: 39px;
+}
+
+.s-07_tw_logo{
+	background-position: -39px 0;
+	width: 39px;
+	height: 39px;
+}
+
+.s-07_pr_logo{
+	background-position: -78px 0;
+	width: 39px;
+	height: 39px;
+}
+

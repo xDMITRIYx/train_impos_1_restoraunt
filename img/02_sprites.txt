@@ -1,0 +1,54 @@
+.s-02_head_breakfast
+, .s-02_head_breakfast_act{
+	background: url(sprites.png) no-repeat;
+}
+
+.s-02_head_breakfast{
+	background-position: 0 0;
+	width: 350px;
+	height: 210px;
+}
+
+.s-02_head_breakfast_act{
+	background-position: 0 -210px ;
+	width: 350px;
+	height: 210px;
+}
+
+
+
+.s-02_head_lunch_act
+, .s-02_head_lunch{
+	background: url(sprites.png) no-repeat;
+}
+
+.s-02_head_lunch_act{
+	background-position: 0 -210px ;
+	width: 350px;
+	height: 210px;
+}
+
+.s-02_head_lunch{
+	background-position: 0 0;
+	width: 350px;
+	height: 210px;
+}
+
+
+.s-02_head_dinner
+, .s-02_head_dinner_act{
+	background: url(sprites.png) no-repeat;
+}
+
+.s-02_head_dinner{
+	background-position: 0 0;
+	width: 350px;
+	height: 210px;
+}
+
+.s-02_head_dinner_act{
+	background-position: 0 -210px ;
+	width: 350px;
+	height: 210px;
+}
+

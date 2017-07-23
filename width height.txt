@@ -1,0 +1,11 @@
+635 head1
+210 head2
+1160 food
+600 slider food
+440 customers
+300 email
+320 footer
+
+3665 total height
+
+1400 total width
